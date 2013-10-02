@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+			xmlns:gap = "http://phonegap.com/ns/1.0"
+			id		  = "com.phonegap.TPP-103trial"
+			version   = "1.0.0">
+			
+	<name>TPP-103-Trial</name>
+	
+	<description>
+		A trial for TPP 103
+	</description>
+	
+	</widget>
